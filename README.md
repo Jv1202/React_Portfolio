@@ -10,8 +10,6 @@
 
 🎨 Modern Design
 
-💡 Perfect Lighthouse Score
-
 
 
 ![Screenshot (104)](https://user-images.githubusercontent.com/120357122/215780151-fe120de2-e644-4e9c-b5ab-564aa1b44db8.png)
